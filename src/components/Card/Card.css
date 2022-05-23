@@ -25,7 +25,7 @@
   overflow: visible;
 }
 .CircularProgressbar-path {
-  stroke: white !important;
+  stroke: #f5f5f5 !important;
   stroke-width: 12px !important;
   filter: drop-shadow(2px 4px 6px white);
 }
